@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+build/
+app/build/
+*.iml
+
+# Local configuration
+local.properties
+*.keystore
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Android
+*.apk
+*.ap_
+*.dex
+
+# Kotlin
+*.kt.metadata
+
+# KSP
+app/build/generated/ksp/
+
+# Room
+app/schemas/
